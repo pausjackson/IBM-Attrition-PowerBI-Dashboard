@@ -1,19 +1,37 @@
-![IBM-Attrition-PowerBI-Dashboard](IBM Attrition Dashboard PNG.png)
-
 # IBM-Attrition-PowerBI-Dashboard
 Interactive Power BI dashboard analyzing employee attrition using the IBM HR Analytics dataset.
 
 IBM Employee Attrition Dashboard
 Built using Power BI and the IBM HR Analytics Attrition Dataset.
 
-Objective:
- Analyze employee attrition patterns and identify workforce characteristics associated with turnover.
- 
+Overview:
+This project explores employee attrition patterns using IBM's HR Analytics Employee Attrition dataset. The dashboard was created in Microsoft Power BI to identify factors associated with turnover and demonstrate data visualization, DAX, and dashboard design skills.
+
+Dashboard Preview:
+![IBM-Attrition-PowerBI-Dashboard](IBM Attrition Dashboard PNG.png)
+![Dashboard](dashboard.png)
+
 Key Metrics:
 • Attrition Rate
  • Employee Count
  • Average Tenure
  • Average Income
+
+Dashboard Features:
+Attrition by Department
+Attrition by Job Role
+Attrition by Tenure
+Attrition by Overtime
+Attrition by Monthly Income
+Attrition by Age
+Attrition by Job Satisfaction
+Attrition by Work-Life Balance
+
+Interactive slicers allow filtering by:
+Department
+Job Role
+Gender
+Marital Status
  
 Insights:
 • Sales Representatives exhibit the highest attrition.
@@ -27,3 +45,11 @@ Tools Used:
  • DAX
  • Data Modeling
  • Conditional Formatting
+
+Dataset:
+IBM HR Analytics Employee Attrition Dataset (Kaggle)
+
+Author:
+Jackson Paus
+
+![IBM-Attrition-PowerBI-Dashboard](IBM Attrition Dashboard PNG.png)
