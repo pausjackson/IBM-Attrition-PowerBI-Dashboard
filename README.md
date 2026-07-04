@@ -47,5 +47,3 @@ IBM HR Analytics Employee Attrition Dataset (Kaggle)
 
 Author:
 Jackson Paus
-
-![IBM-Attrition-PowerBI-Dashboard](IBM Attrition Dashboard PNG.png)
