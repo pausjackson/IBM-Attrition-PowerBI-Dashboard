@@ -1,3 +1,5 @@
+![IBM-Attrition-PowerBI-Dashboard](IBM Attrition Dashboard PNG.png)
+
 # IBM-Attrition-PowerBI-Dashboard
 Interactive Power BI dashboard analyzing employee attrition using the IBM HR Analytics dataset.
 
