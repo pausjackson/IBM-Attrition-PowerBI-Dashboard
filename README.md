@@ -9,7 +9,6 @@ This project explores employee attrition patterns using IBM's HR Analytics Emplo
 
 Dashboard Preview:
 ![IBM Attrition Dashboard](IBM%20Attrition%20Dashboard%20PNG.png)
-![Dashboard](dashboard.png)
 
 Key Metrics:
 • Attrition Rate
