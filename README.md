@@ -1,9 +1,6 @@
 # IBM-Attrition-PowerBI-Dashboard
 Interactive Power BI dashboard analyzing employee attrition using the IBM HR Analytics dataset.
 
-IBM Employee Attrition Dashboard
-Built using Power BI and the IBM HR Analytics Attrition Dataset.
-
 Overview:
 This project explores employee attrition patterns using IBM's HR Analytics Employee Attrition dataset. The dashboard was created in Microsoft Power BI to identify factors associated with turnover and demonstrate data visualization, DAX, and dashboard design skills.
 
