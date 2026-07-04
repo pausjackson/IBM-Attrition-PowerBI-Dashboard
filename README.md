@@ -8,7 +8,7 @@ Overview:
 This project explores employee attrition patterns using IBM's HR Analytics Employee Attrition dataset. The dashboard was created in Microsoft Power BI to identify factors associated with turnover and demonstrate data visualization, DAX, and dashboard design skills.
 
 Dashboard Preview:
-![IBM-Attrition-PowerBI-Dashboard](IBM Attrition Dashboard PNG.png)
+![IBM Attrition Dashboard](IBM%20Attrition%20Dashboard%20PNG.png)
 ![Dashboard](dashboard.png)
 
 Key Metrics:
